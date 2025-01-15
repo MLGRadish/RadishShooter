@@ -1,0 +1,15 @@
+# VS Code
+.vscode
+.cache
+
+# CMake
+build
+
+# ImGui
+imgui.ini
+
+# CLion
+cmake-build-debug
+
+# macOS
+.DS_Store
